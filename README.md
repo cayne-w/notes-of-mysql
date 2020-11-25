@@ -1,2 +1,6 @@
-# notes-of-mysql
-MySQL 笔记
+# MySQL 笔记
+
+# 目录
+
+* 安装
+* 用户管理和权限控制
